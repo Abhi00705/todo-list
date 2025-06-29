@@ -23,8 +23,8 @@ A simple web-based Todo List application built with HTML, CSS, and JavaScript.
 
 ## Screenshot
 
-![Todo App screenshot](.Screenshot_2025-06-29_142001.png)
-![Todo App screenshot](.Screenshot_2025-06-29_142028.png)
+![screenshot-1](./Screenshot_1.png)
+![screenshot-2](./Screenshot_2.png)
 
 ## Usage
 
